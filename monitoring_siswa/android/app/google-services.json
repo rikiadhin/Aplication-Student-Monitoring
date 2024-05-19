@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542641662010",
+    "project_id": "student-monitoring-9f2c3",
+    "storage_bucket": "student-monitoring-9f2c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542641662010:android:6cf1e648ffa23f9cbced03",
+        "android_client_info": {
+          "package_name": "com.example.monitoring_siswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnjxKwfJW5FmjNYxGaPN7I_vDKFrNw00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
